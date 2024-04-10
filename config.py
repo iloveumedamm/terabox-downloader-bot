@@ -1,14 +1,14 @@
-API_ID = 123456  # api id
-API_HASH = "ed44780dedd182084f2133b16944cf565"  # api hash
+API_ID = 13216322  # api id
+API_HASH = "15e5e632a8a0e52251ac8c3ccbe462c7"  # api hash
 
-BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # bot token
+BOT_TOKEN = "6029845969:AAGtxJFM7T8BEFGCwQdWNw9D8MVEyW-E4uQ"  # bot token
 
 
 ## REDIS
-HOST = "localhost"  # redis host uri
+HOST = "redis-18231.c17.us-east-1-4.ec2.cloud.redislabs.com:18231"
 PORT = 6379  # redis port
-PASSWORD = ""  # redis password
+PASSWORD = "YlCkS43uLUCRnMidEB5eONAKxNo0w6yC"  # redis password
 
-PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1001817380537  # CHAT WHERE YOU WANT TO STORE VIDEOS
 COOKIE = ""  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
-ADMINS = [1317173146]
+ADMINS = [5642570692]
